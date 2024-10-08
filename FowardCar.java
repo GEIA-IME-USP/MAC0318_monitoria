@@ -47,7 +47,7 @@ class DriveForward implements Behavior {
 	} 
 } 
 
-public class ForwardCarFinal { 
+public class ForwardCar { 
 
   // renaming  instances of Motor.A and Motor.B de ...
 	static NXTRegulatedMotor leftMotor = Motor.A; 
