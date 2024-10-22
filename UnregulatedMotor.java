@@ -4,7 +4,7 @@ import lejos.nxt.MotorPort;
 import lejos.nxt.NXTMotor;
 import lejos.nxt.SensorPort;
 
-public class unregulatedMotor {
+public class UnregulatedMotor {
 	
 	static LightSensor light;
 	static NXTMotor mA;
